@@ -123,3 +123,6 @@ width: 80%;
 .job p {
 font-size: 1.3em;
 }
+.table, th, td {
+  border:2px solid black;
+}
